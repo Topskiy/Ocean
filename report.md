@@ -46,7 +46,7 @@ The first look at the above graphs leads to the conclusion that this program was
 
 ![](assets/netDeposits.jpg)
 
-## Findings
+## Our Findings
 
 Unfortunately, the number of users who participated in the liquidity provision has decreased at this point, so the amount of SLP tokens allocated to Yield Farming has decreased from about 300,000 at the end of the incentive program to about 1,000, which shows a significant decrease.
 
