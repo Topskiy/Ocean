@@ -10,11 +10,11 @@ SushiSwap is a decentralized exchange (DEX) that operates on the Ethereum blockc
 
 On August 18, 2021, a news was published on the LIDO blog, the first few paragraphs of which are as follows:
 
-"In light of the recent proposal, SushiSwap has joined forces with Lido to launch their wstETH/DAI liquidity pool with liquidity mining incentives. This recent implementation allows users to have access to more forms of stETH liquidity as well as improving the efficiency and interconnectivity of protocol integrations….
+In light of the recent proposal, SushiSwap has joined forces with Lido to launch their wstETH/DAI liquidity pool with liquidity mining incentives. This recent implementation allows users to have access to more forms of stETH liquidity as well as improving the efficiency and interconnectivity of protocol integrations.
 
 Users can provide wstETH (wrapped stETH) as liquidity to the respective pool to earn trading fees and additional incentives.
 
-The pool will be allocated 200,000 LDO for the first month, with up to 13,500 SUSHI allocated from SushiSwap as well."
+The pool will be allocated 200,000 LDO for the first month, with up to 13,500 SUSHI allocated from SushiSwap as well.
 
 ![twitter](assets/twitter.jpg)
 
