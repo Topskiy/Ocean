@@ -1,4 +1,4 @@
-# Report
+# Report by Dspyt
 
 This report evaluates the success of SushiSwap wstETH / DAI liquidity pool incentive program, which began on August 18, 2021. The incentive program offered rewards to liquidity providers and was intended to attract capital and provide liquidity to the pool. To evaluate the program's success, we examined the pool's average TVL before the program began, the percentage increase in APR incentivized by the program, the percentage increase in TVL achieved, the percentage of liquidity providers who became yield farmers during the program, the average duration of the program, and the percentage of TVL pulled out from the pool after the program ended. After reviewing the data, we concluded that the program was successful in meeting its goals.
 
